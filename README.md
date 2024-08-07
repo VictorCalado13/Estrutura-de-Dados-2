@@ -1,2 +1,2 @@
 # Estrutura-de-Dados-2
-Atividades Acadêmicas
+Projetos Acadêmicos
