@@ -1,4 +1,9 @@
-P1- 16/04/2024
+# Projeto Avaliativo P1
+
+  Consiste em fazer um programa que deve ler uma entrada que tem o seguinte formato:
+  - Primeira linha o tamanho do vetor (N>0);
+  - As linhas seguintes informarão um número inteiro e em seguida o conjunto ao qual pertencem (A ou B);
+
 
 a) O programa deve ler uma entrada que tem o seguinte formato: primeira linha o tamanho do vetor (N>0); as linhas seguintes informarão um número inteiro e em seguida o conjunto ao qual pertencem (A ou B). Como sugestão, cada conjunto pode ser representado internamente como um vetor de tamanho N; Serão informados N valores para cada conjunto. Exemplo: 3 200 A 300 A 100 B 300 B 50 A 25 B
 
