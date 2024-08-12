@@ -1,6 +1,7 @@
 # Projeto Avaliativo P1
 
 1° Etapa:
+
   Consiste em fazer um programa que deve ler uma entrada que tem o seguinte formato:
   - Primeira linha o tamanho do vetor (N>0);
   - As linhas seguintes informarão um número inteiro e em seguida o conjunto ao qual pertencem (A ou B);
